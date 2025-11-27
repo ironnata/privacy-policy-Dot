@@ -1,6 +1,4 @@
-
-
-             Effective Date: 13.Nov.2025
+Effective Date: 13.Nov.2025
              Contact: dotbymo@gmail.com
 
              ⸻
@@ -11,7 +9,7 @@
                  •    Account Information: If you log in using Apple, Google, or anonymously, we collect the associated account identifier.
                  •    User-Generated Content: Information you provide when creating or editing exhibition posts, such as exhibition name, artist, dates, venue (including address), and descriptions.
                  •    Device Information: Basic technical details like device type, operating system, and usage logs.
-                 •    Advertising Data: Information collected via Google AdMob for displaying ads (e.g., ad interactions, impressions).
+                 •    Advertising & Tracking Data: We collect unique device identifiers, such as the IDFA (Identifier for Advertisers) on iOS, to provide personalized advertisements and measure ad performance. This collection is subject to your explicit consent via the App Tracking Transparency (ATT) prompt.
                  •    Analytics (if enabled): We may use Firebase Analytics to understand general app usage and improve user experience. This data is aggregated and not personally identifiable.
 
              ⸻
@@ -44,7 +42,7 @@
              5. User Rights
                  •    You may access, update, or delete your exhibition posts at any time.
                  •    You may request deletion of your account by contacting us.
-                 •    You may opt out of personalized ads through your device settings.
+                 •    You can control the app's ability to track your activity across other companies' apps and websites for advertising purposes by adjusting your device settings (Settings > Privacy & Security > Tracking) or by declining the tracking request within the App.
 
              ⸻
 
