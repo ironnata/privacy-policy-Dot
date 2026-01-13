@@ -1,4 +1,4 @@
-Effective Date: 13.Nov.2025
+             Effective Date: 13.Jan.2026
              Contact: dotbymo@gmail.com
 
              ⸻
@@ -6,43 +6,52 @@ Effective Date: 13.Nov.2025
              1. Information We Collect
 
              We collect the following types of information when you use the App:
-                 •    Account Information: If you log in using Apple, Google, or anonymously, we collect the associated account identifier.
-                 •    User-Generated Content: Information you provide when creating or editing exhibition posts, such as exhibition name, artist, dates, venue (including address), and descriptions.
-                 •    Device Information: Basic technical details like device type, operating system, and usage logs.
-                 •    Advertising & Tracking Data: We collect unique device identifiers, such as the IDFA (Identifier for Advertisers) on iOS, to provide personalized advertisements and measure ad performance. This collection is subject to your explicit consent via the App Tracking Transparency (ATT) prompt.
-                 •    Analytics (if enabled): We may use Firebase Analytics to understand general app usage and improve user experience. This data is aggregated and not personally identifiable.
+             
+              • Account Information: If you log in using Apple, Google, or anonymously, we collect the associated account identifier.
+              • Location Information: With your explicit permission, we access your device's location to guide you to inspiring art exhibitions around you. This location data is only used while you are actively using the App and is not stored on our servers or shared with third parties.
+              • User-Generated Content: Information you provide when creating or editing exhibition posts, such as exhibition name, artist, dates, venue (including address), and descriptions.
+              • Device Information: Basic technical details like device type, operating system, and usage logs.
+              • Advertising & Tracking Data: We collect unique device identifiers, such as the IDFA (Identifier for Advertisers) on iOS, to provide personalized advertisements and measure ad performance. This collection is subject to your explicit consent via the App Tracking Transparency (ATT) prompt.
+              • Analytics (if enabled): We may use Firebase Analytics to understand general app usage and improve user experience. This data is aggregated and not personally identifiable.
 
              ⸻
 
              2. How We Use Information
 
              We use the information collected to:
-                 •    Provide and improve the App’s functionality
-                 •    Allow users to create, modify, and delete exhibition posts
-                 •    Display relevant advertisements
-                 •    Maintain and secure our services
+             
+              • Provide and improve the App’s functionality
+              • Guide you to inspiring art exhibitions around you based on your current location (only when location access is granted)
+              • Allow users to create, modify, and delete exhibition posts
+              • Display relevant advertisements
+              • Maintain and secure our services
 
              ⸻
 
              3. Sharing of Information
 
              We do not sell or rent your personal information. We only share information in these cases:
-                 •    With Service Providers: Such as Firebase (for backend and data storage) and Google AdMob (for ads)
-                 •    Legal Requirements: When required to comply with applicable laws or protect rights and safety
+             
+              • With Service Providers: Such as Firebase (for backend and data storage) and Google AdMob (for ads)
+              • Legal Requirements: When required to comply with applicable laws or protect rights and safety
 
              ⸻
 
              4. Data Retention
-                 •    User-generated content (exhibition details) is stored until you delete it.
-                 •    Account information is retained while your account is active.
-                 •    We may keep some records to comply with legal obligations.
+             
+              • Location data is used in real-time only and is not stored on our servers.
+              • User-generated content (exhibition details) is stored until you delete it.
+              • Account information is retained while your account is active.
+              • We may keep some records to comply with legal obligations.
 
              ⸻
 
              5. User Rights
-                 •    You may access, update, or delete your exhibition posts at any time.
-                 •    You may request deletion of your account by contacting us.
-                 •    You can control the app's ability to track your activity across other companies' apps and websites for advertising purposes by adjusting your device settings (Settings > Privacy & Security > Tracking) or by declining the tracking request within the App.
+             
+              • You may access, update, or delete your exhibition posts at any time.
+              • You may request deletion of your account by contacting us.
+              • You can control location access by going to Settings > Privacy & Security > Location Services > DOT and selecting your preferred permission level.
+              • You can control the app's ability to track your activity across other companies' apps and websites for advertising purposes by adjusting your device settings (Settings > Privacy & Security > Tracking) or by declining the tracking request within the App.
 
              ⸻
 
